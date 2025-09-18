@@ -1,2 +1,4 @@
-# GIT_HUB-TUTORIALS
-Auther- Anurag Verma 2025
+## 🧑‍💻 Author
+  - Anurag Verma
+  - Year: 2025  
+Thank you for visiting this repository!
