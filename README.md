@@ -1,4 +1,4 @@
-# GIT_GITHUB-TUTORIAL
+# GIT_GITHUB-TUTORIALS
 
 This repository contains tutorials and resources for learning Git and GitHub.
 
