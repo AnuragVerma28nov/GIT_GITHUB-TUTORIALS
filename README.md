@@ -2,7 +2,7 @@
 
 This repository contains tutorials and resources for learning Git and GitHub.
 
-# Contents
+## Contents
 
 - `git_cheat_sheet.pdf`: A handy cheat sheet covering common Git commands.
 - `README.md`: Project overview and instructions.
