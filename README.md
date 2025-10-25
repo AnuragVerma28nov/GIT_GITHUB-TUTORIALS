@@ -2,7 +2,7 @@
 
 This repository contains tutorials and resources for learning Git and GitHub.
 
-## Contents
+# Contents
 
 - `git_cheat_sheet.pdf`: A handy cheat sheet covering common Git commands.
 - `README.md`: Project overview and instructions.
@@ -25,6 +25,6 @@ This project is for educational purposes.
 
 ## 🧑‍💻 Author
   - Anurag Verma
-  - Year: 202
+  - Year: 2026
 Thank you for visiting this repository!
 
