@@ -19,11 +19,11 @@ This repository contains tutorials and resources for learning Git and GitHub.
 - Working with remotes
 - GitHub workflows
 
-## Licens
+## License
 
 This project is for educational purposes.
 
-## 🧑‍💻 Autho
+## 🧑‍💻 Author
   - Anurag Verma
   - Year: 2026
 Thank you for visiting this repository!
