@@ -19,7 +19,7 @@ This repository contains tutorials and resources for learning Git and GitHub.
 - Working with remotes
 - GitHub workflows
 
-## License
+## Licens
 
 This project is for educational purposes.
 
