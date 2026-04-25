@@ -23,7 +23,7 @@ This repository contains tutorials and resources for learning Git and GitHub.
 
 This project is for educational purposes.
 
-## 🧑‍💻 Author
+## 🧑‍💻 Autho
   - Anurag Verma
   - Year: 2026
 Thank you for visiting this repository!
