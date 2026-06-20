@@ -25,6 +25,6 @@ This project is for educational purposes.
 
 ## 🧑‍💻 Author
   - Anurag Verma
-  - Year: 2026
+  - Year: 2025
 Thank you for visiting this repository!
 
