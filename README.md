@@ -17,7 +17,7 @@ This repository contains tutorials and resources for learning Git and GitHub
 - Basic Git commands
 - Branching and merging
 - Working with remotes
-- GitHub workflows
+- GitHub workflows 
 
 ## License
 
